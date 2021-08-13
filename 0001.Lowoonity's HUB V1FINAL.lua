@@ -1,6 +1,6 @@
 -- Gui to Lua
 -- Version: 3.2
-
+-- Made by SeenKid
 -- Instances:
 
 local ScreenGui = Instance.new("ScreenGui")
